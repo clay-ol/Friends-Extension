@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Friends Quote of the Day",
+  "description": "This extension will generate a random quote from the hit TV sitcom 'Friends'",
+  "version": "0.5",
+
+  "browser_action": {
+   "default_icon": "EZbXkuIA_400x400.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
